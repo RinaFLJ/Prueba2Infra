@@ -1,0 +1,188 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2026-07-08T13:07:25.857611",
+        "data": "Bloque Genesis - InfraActFinal",
+        "previous_hash": "0",
+        "nonce": 0,
+        "hash": "5e90d7360baa6fe1d8a1f09680a09f6a371844eba32a8e9d4244c2c6ae1b6b55"
+    },
+    {
+        "index": 1,
+        "timestamp": "2026-07-08T13:07:25.857951",
+        "data": {
+            "tareas_auditadas": [
+                "AUD-698de94b",
+                "AUD-5f53bb5d",
+                "AUD-64fa3312"
+            ],
+            "merkle_root": "5621eefa7b8b4d19250442a83b62a5f6fe6d1b1df0fdeb3a48de51d73d2909ec",
+            "cantidad_eventos": 15
+        },
+        "previous_hash": "5e90d7360baa6fe1d8a1f09680a09f6a371844eba32a8e9d4244c2c6ae1b6b55",
+        "nonce": 38,
+        "hash": "0eea3a303d799f913523d8228c24a3857067b37335c19a4cc81d5264376a2a89"
+    },
+    {
+        "index": 2,
+        "timestamp": "2026-07-08T13:07:25.858452",
+        "data": {
+            "tareas_auditadas": [
+                "AUD-8989fe17",
+                "AUD-3c5c9f4a",
+                "AUD-95ffeb89"
+            ],
+            "merkle_root": "492fea99ac39ac1018b1d41cc1cc78b0bdff301c3a1cb77ab3cc6a7079950173",
+            "cantidad_eventos": 15
+        },
+        "previous_hash": "0eea3a303d799f913523d8228c24a3857067b37335c19a4cc81d5264376a2a89",
+        "nonce": 29,
+        "hash": "082fb21908b5f0c004579e7f0393dff6a36e5639fe7425151afea2250aa29346"
+    },
+    {
+        "index": 3,
+        "timestamp": "2026-07-08T13:07:25.858816",
+        "data": {
+            "tareas_auditadas": [
+                "AUD-3493762b",
+                "AUD-18c4428a",
+                "AUD-3c5c9f4a",
+                "AUD-e4deb1f3"
+            ],
+            "merkle_root": "785707bfed214ede15887703f812c8826b6ab81c44fa6771f4e6b18de0615906",
+            "cantidad_eventos": 15
+        },
+        "previous_hash": "082fb21908b5f0c004579e7f0393dff6a36e5639fe7425151afea2250aa29346",
+        "nonce": 18,
+        "hash": "0b60c043e39d7423b3d73df5b714411ab0bd6af522fb23c6d1ae221d49761628"
+    },
+    {
+        "index": 4,
+        "timestamp": "2026-07-08T13:07:25.859075",
+        "data": {
+            "tareas_auditadas": [
+                "AUD-3493762b",
+                "AUD-78e1f54c",
+                "AUD-16df1c35"
+            ],
+            "merkle_root": "ee96780a292fd4f630766e39f1e2c01ed3ce6f329769e2731f8ef28bcdef4194",
+            "cantidad_eventos": 15
+        },
+        "previous_hash": "0b60c043e39d7423b3d73df5b714411ab0bd6af522fb23c6d1ae221d49761628",
+        "nonce": 8,
+        "hash": "02d5a6af9a54af8ca667c01e7ea8c83ca84084a469d4871688280dabf79df80c"
+    },
+    {
+        "index": 5,
+        "timestamp": "2026-07-08T13:07:25.859278",
+        "data": {
+            "tareas_auditadas": [
+                "AUD-3ea65d93",
+                "AUD-78e1f54c",
+                "AUD-10e59c24",
+                "AUD-01f3ab9b"
+            ],
+            "merkle_root": "98ebc3fd4257a167ad4c8ee1c62534fcc609fbfa874b72d3fc0290c4be48e62f",
+            "cantidad_eventos": 15
+        },
+        "previous_hash": "02d5a6af9a54af8ca667c01e7ea8c83ca84084a469d4871688280dabf79df80c",
+        "nonce": 0,
+        "hash": "00a4227ebb7cfe710c7af886da46ecf6ab4a378e2d319edd0f81dfb631db141a"
+    },
+    {
+        "index": 6,
+        "timestamp": "2026-07-08T13:07:25.859385",
+        "data": {
+            "tareas_auditadas": [
+                "AUD-36b66fba",
+                "AUD-10e59c24",
+                "AUD-2692b95d"
+            ],
+            "merkle_root": "410c399c8cb04731d849e6cc6a830870123da502b1a4cf42788a93944899de2e",
+            "cantidad_eventos": 15
+        },
+        "previous_hash": "00a4227ebb7cfe710c7af886da46ecf6ab4a378e2d319edd0f81dfb631db141a",
+        "nonce": 11,
+        "hash": "0ffc321d5509a04e5226ceb7f771142d8dc5ee405599794072cb04d6803dda09"
+    },
+    {
+        "index": 7,
+        "timestamp": "2026-07-08T13:07:25.859598",
+        "data": {
+            "tareas_auditadas": [
+                "AUD-48372d48",
+                "AUD-964af9c4",
+                "AUD-36b66fba",
+                "AUD-2d15fe4a"
+            ],
+            "merkle_root": "ceaf7b6cb4498943285daad6ff02f266fbf7217b49f69568ae7a4e844f67efb9",
+            "cantidad_eventos": 15
+        },
+        "previous_hash": "0ffc321d5509a04e5226ceb7f771142d8dc5ee405599794072cb04d6803dda09",
+        "nonce": 28,
+        "hash": "06ba1954578062c4c9ca2a2465ad6baa3519819721a74a70a0a2d21fc452ea97"
+    },
+    {
+        "index": 8,
+        "timestamp": "2026-07-08T13:07:25.859959",
+        "data": {
+            "tareas_auditadas": [
+                "AUD-7bdcfa28",
+                "AUD-f2fdae9d",
+                "AUD-964af9c4"
+            ],
+            "merkle_root": "6c7e7f6bf1e639a03d9847ba9a783d58c97bd79b68625ed0b02ae2dc2842e88a",
+            "cantidad_eventos": 15
+        },
+        "previous_hash": "06ba1954578062c4c9ca2a2465ad6baa3519819721a74a70a0a2d21fc452ea97",
+        "nonce": 17,
+        "hash": "079d0448f8ea71b1a38e1b7f6dfc34490442e9cb658ada1844bbb3eeec53c315"
+    },
+    {
+        "index": 9,
+        "timestamp": "2026-07-08T13:07:25.860227",
+        "data": {
+            "tareas_auditadas": [
+                "AUD-7f1b7f1c",
+                "AUD-c5ed89c1",
+                "AUD-f2fdae9d",
+                "AUD-704e6c89"
+            ],
+            "merkle_root": "1b3c30e16166cd9e8a4e575b0b3442e7f4418f094588273f99b9b0beff2c72fa",
+            "cantidad_eventos": 15
+        },
+        "previous_hash": "079d0448f8ea71b1a38e1b7f6dfc34490442e9cb658ada1844bbb3eeec53c315",
+        "nonce": 41,
+        "hash": "0c962c560a281bcb44f923f4ff254bec88a1dc00af8497cb962936f99c9d5644"
+    },
+    {
+        "index": 10,
+        "timestamp": "2026-07-08T13:07:25.860700",
+        "data": {
+            "tareas_auditadas": [
+                "AUD-f048bde9",
+                "AUD-704e6c89",
+                "AUD-5fa0d714"
+            ],
+            "merkle_root": "4ac881aaa8823d90ff8f1484c0b8774f497c6b190249f918d52db7978d618244",
+            "cantidad_eventos": 15
+        },
+        "previous_hash": "0c962c560a281bcb44f923f4ff254bec88a1dc00af8497cb962936f99c9d5644",
+        "nonce": 45,
+        "hash": "0b2a7f1f9676602aeb5490977cc1d97a27c40869466de16eead89f59283a4f32"
+    },
+    {
+        "index": 11,
+        "timestamp": "2026-07-08T13:07:25.861101",
+        "data": {
+            "tareas_auditadas": [
+                "AUD-f048bde9"
+            ],
+            "merkle_root": "b37e03413085ab1b7ccf199dbab25f88f3c832f1677d2c86e22e8b0be2da43a1",
+            "cantidad_eventos": 2
+        },
+        "previous_hash": "0b2a7f1f9676602aeb5490977cc1d97a27c40869466de16eead89f59283a4f32",
+        "nonce": 11,
+        "hash": "005b2180769348078d4c7eaa8205efb78dd7e73f4fb3d49b3519f8e5405adbde"
+    }
+]

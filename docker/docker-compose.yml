@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  redisbroker:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+  workerauditoria:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    command: python appAsync/worker.py
+    volumes:
+      - ../outputs:/app/outputs
+      - ../data:/app/data
+    depends_on:
+      - redisbroker
+    environment:
+      - REDIS_HOST=redisbroker
+
+  interfazstreamlit:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    command: streamlit run appAsync/app.py --server.port=8501 --server.address=0.0.0.0
+    ports:
+      - "8501:8501"
+    volumes:
+      - ../outputs:/app/outputs
+      - ../data:/app/data
+    depends_on:
+      - redisbroker
+    environment:
+      - REDIS_HOST=redisbroker

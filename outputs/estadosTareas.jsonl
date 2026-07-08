@@ -1,0 +1,152 @@
+{"timestamp": "2026-07-07T21:30:10.622433", "tareaId": "AUD-698de94b", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando auditor\u00eda del archivo sampLogsMayo2026.log"}
+{"timestamp": "2026-07-07T21:30:13.625913", "tareaId": "AUD-698de94b", "estado": "procesando", "avance": 25, "mensaje": "Analizando semana 1: 500,000 l\u00edneas le\u00eddas. Sin anomal\u00edas."}
+{"timestamp": "2026-07-07T21:30:17.630326", "tareaId": "AUD-698de94b", "estado": "procesando", "avance": 50, "mensaje": "Analizando semana 2: 1 anomal\u00eda detectada (transferencia sospechosa)."}
+{"timestamp": "2026-07-07T21:30:21.634734", "tareaId": "AUD-698de94b", "estado": "procesando", "avance": 75, "mensaje": "Analizando semana 3 y 4: validando probabilidades de lootboxes..."}
+{"timestamp": "2026-07-07T21:30:24.638302", "tareaId": "AUD-698de94b", "estado": "completado", "avance": 100, "mensaje": "Auditor\u00eda finalizada. 3 anomal\u00edas cr\u00edticas detectadas en total."}
+{"timestamp": "2026-07-07T21:30:24.639261", "tareaId": "AUD-64fa3312", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando auditor\u00eda del archivo sampLogsMayo2026.log"}
+{"timestamp": "2026-07-07T21:30:27.641907", "tareaId": "AUD-64fa3312", "estado": "procesando", "avance": 25, "mensaje": "Analizando semana 1: 500,000 l\u00edneas le\u00eddas. Sin anomal\u00edas."}
+{"timestamp": "2026-07-07T21:30:31.645892", "tareaId": "AUD-64fa3312", "estado": "procesando", "avance": 50, "mensaje": "Analizando semana 2: 1 anomal\u00eda detectada (transferencia sospechosa)."}
+{"timestamp": "2026-07-07T21:30:35.650167", "tareaId": "AUD-64fa3312", "estado": "procesando", "avance": 75, "mensaje": "Analizando semana 3 y 4: validando probabilidades de lootboxes..."}
+{"timestamp": "2026-07-07T21:30:38.653540", "tareaId": "AUD-64fa3312", "estado": "completado", "avance": 100, "mensaje": "Auditor\u00eda finalizada. 3 anomal\u00edas cr\u00edticas detectadas en total."}
+{"timestamp": "2026-07-07T21:43:13.975729", "tareaId": "AUD-5f53bb5d", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando auditor\u00eda del archivo sampLogsMayo2026.log"}
+{"timestamp": "2026-07-07T21:43:16.979084", "tareaId": "AUD-5f53bb5d", "estado": "procesando", "avance": 25, "mensaje": "Analizando semana 1: 500,000 l\u00edneas le\u00eddas. Sin anomal\u00edas."}
+{"timestamp": "2026-07-07T21:43:20.982920", "tareaId": "AUD-5f53bb5d", "estado": "procesando", "avance": 50, "mensaje": "Analizando semana 2: 1 anomal\u00eda detectada (transferencia sospechosa)."}
+{"timestamp": "2026-07-07T21:43:24.986932", "tareaId": "AUD-5f53bb5d", "estado": "procesando", "avance": 75, "mensaje": "Analizando semana 3 y 4: validando probabilidades de lootboxes..."}
+{"timestamp": "2026-07-07T21:43:27.989932", "tareaId": "AUD-5f53bb5d", "estado": "completado", "avance": 100, "mensaje": "Auditor\u00eda finalizada. 3 anomal\u00edas cr\u00edticas detectadas en total."}
+{"timestamp": "2026-07-07T21:43:27.990910", "tareaId": "AUD-8989fe17", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando auditor\u00eda del archivo sampLogsMayo2026.log"}
+{"timestamp": "2026-07-07T21:43:30.993940", "tareaId": "AUD-8989fe17", "estado": "procesando", "avance": 25, "mensaje": "Analizando semana 1: 500,000 l\u00edneas le\u00eddas. Sin anomal\u00edas."}
+{"timestamp": "2026-07-07T21:43:34.997905", "tareaId": "AUD-8989fe17", "estado": "procesando", "avance": 50, "mensaje": "Analizando semana 2: 1 anomal\u00eda detectada (transferencia sospechosa)."}
+{"timestamp": "2026-07-07T21:43:39.001962", "tareaId": "AUD-8989fe17", "estado": "procesando", "avance": 75, "mensaje": "Analizando semana 3 y 4: validando probabilidades de lootboxes..."}
+{"timestamp": "2026-07-07T21:43:42.005657", "tareaId": "AUD-8989fe17", "estado": "completado", "avance": 100, "mensaje": "Auditor\u00eda finalizada. 3 anomal\u00edas cr\u00edticas detectadas en total."}
+{"timestamp": "2026-07-07T21:49:45.763677", "tareaId": "AUD-95ffeb89", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogsMayo2026.log"}
+{"timestamp": "2026-07-07T21:49:45.767051", "tareaId": "AUD-95ffeb89", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 35 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T21:49:46.768704", "tareaId": "AUD-95ffeb89", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 60 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T21:49:47.770926", "tareaId": "AUD-95ffeb89", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 103 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T21:49:48.772976", "tareaId": "AUD-95ffeb89", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 130 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T21:49:49.775326", "tareaId": "AUD-95ffeb89", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 159 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-07T21:50:15.806485", "tareaId": "AUD-3c5c9f4a", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogsMayo2026.log"}
+{"timestamp": "2026-07-07T21:50:15.808353", "tareaId": "AUD-3c5c9f4a", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 35 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T21:50:16.809512", "tareaId": "AUD-3c5c9f4a", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 60 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T21:50:17.810711", "tareaId": "AUD-3c5c9f4a", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 103 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T21:50:18.812677", "tareaId": "AUD-3c5c9f4a", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 130 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T21:50:19.815438", "tareaId": "AUD-3c5c9f4a", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 159 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-07T21:56:42.903670", "tareaId": "AUD-18c4428a", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogsMayo2026.log"}
+{"timestamp": "2026-07-07T21:56:42.906913", "tareaId": "AUD-18c4428a", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 35 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T21:56:43.908769", "tareaId": "AUD-18c4428a", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 60 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T21:56:44.911162", "tareaId": "AUD-18c4428a", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 103 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T21:56:45.913333", "tareaId": "AUD-18c4428a", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 130 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T21:56:46.915796", "tareaId": "AUD-18c4428a", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 159 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-07T22:08:33.855390", "tareaId": "AUD-e4deb1f3", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLog2025.log"}
+{"timestamp": "2026-07-07T22:08:33.857576", "tareaId": "AUD-e4deb1f3", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 35 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:08:34.858659", "tareaId": "AUD-e4deb1f3", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 60 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:08:35.860911", "tareaId": "AUD-e4deb1f3", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 103 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:08:36.863140", "tareaId": "AUD-e4deb1f3", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 130 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:08:37.866188", "tareaId": "AUD-e4deb1f3", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 159 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-07T22:08:37.867201", "tareaId": "AUD-3493762b", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogs2023.log"}
+{"timestamp": "2026-07-07T22:08:37.868807", "tareaId": "AUD-3493762b", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 25 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:08:38.870681", "tareaId": "AUD-3493762b", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 56 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:08:39.872409", "tareaId": "AUD-3493762b", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 92 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:08:40.873693", "tareaId": "AUD-3493762b", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 124 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:08:41.876320", "tareaId": "AUD-3493762b", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 155 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-07T22:08:41.877142", "tareaId": "AUD-16df1c35", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogs2024.log"}
+{"timestamp": "2026-07-07T22:08:41.878632", "tareaId": "AUD-16df1c35", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 37 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:08:42.880940", "tareaId": "AUD-16df1c35", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 62 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:08:43.883256", "tareaId": "AUD-16df1c35", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 93 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:08:44.885040", "tareaId": "AUD-16df1c35", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 127 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:08:45.887090", "tareaId": "AUD-16df1c35", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 155 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-07T22:21:42.756324", "tareaId": "AUD-78e1f54c", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLog2025.log"}
+{"timestamp": "2026-07-07T22:21:42.758531", "tareaId": "AUD-78e1f54c", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 35 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:21:43.760744", "tareaId": "AUD-78e1f54c", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 60 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:21:44.763184", "tareaId": "AUD-78e1f54c", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 103 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:21:45.765762", "tareaId": "AUD-78e1f54c", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 130 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:21:46.768177", "tareaId": "AUD-78e1f54c", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 159 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-07T22:21:46.769084", "tareaId": "AUD-3ea65d93", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogs2024.log"}
+{"timestamp": "2026-07-07T22:21:46.771343", "tareaId": "AUD-3ea65d93", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 37 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:21:47.772654", "tareaId": "AUD-3ea65d93", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 62 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:21:48.774750", "tareaId": "AUD-3ea65d93", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 93 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:21:49.777118", "tareaId": "AUD-3ea65d93", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 127 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:21:50.779319", "tareaId": "AUD-3ea65d93", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 155 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-07T22:21:50.780546", "tareaId": "AUD-01f3ab9b", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogsMayo2026.log"}
+{"timestamp": "2026-07-07T22:21:50.783164", "tareaId": "AUD-01f3ab9b", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 35 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:21:51.784522", "tareaId": "AUD-01f3ab9b", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 67 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:21:52.786624", "tareaId": "AUD-01f3ab9b", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 102 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:21:53.787680", "tareaId": "AUD-01f3ab9b", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 122 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:21:54.790706", "tareaId": "AUD-01f3ab9b", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 158 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-07T22:28:00.876639", "tareaId": "AUD-10e59c24", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogsMayo2026.log"}
+{"timestamp": "2026-07-07T22:28:00.880533", "tareaId": "AUD-10e59c24", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 35 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:01.881349", "tareaId": "AUD-10e59c24", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 67 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:02.883716", "tareaId": "AUD-10e59c24", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 102 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:03.885965", "tareaId": "AUD-10e59c24", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 122 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:04.888796", "tareaId": "AUD-10e59c24", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 158 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-07T22:28:04.889911", "tareaId": "AUD-2692b95d", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogs2024.log"}
+{"timestamp": "2026-07-07T22:28:04.891549", "tareaId": "AUD-2692b95d", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 37 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:05.892835", "tareaId": "AUD-2692b95d", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 62 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:06.894828", "tareaId": "AUD-2692b95d", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 93 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:07.896990", "tareaId": "AUD-2692b95d", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 127 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:08.899832", "tareaId": "AUD-2692b95d", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 155 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-07T22:28:08.900784", "tareaId": "AUD-36b66fba", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogs2023.log"}
+{"timestamp": "2026-07-07T22:28:08.902373", "tareaId": "AUD-36b66fba", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 25 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:09.903657", "tareaId": "AUD-36b66fba", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 56 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:10.905703", "tareaId": "AUD-36b66fba", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 92 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:11.907583", "tareaId": "AUD-36b66fba", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 124 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:12.910438", "tareaId": "AUD-36b66fba", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 155 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-07T22:28:12.911647", "tareaId": "AUD-48372d48", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLog2025.log"}
+{"timestamp": "2026-07-07T22:28:12.913347", "tareaId": "AUD-48372d48", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 35 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:13.914980", "tareaId": "AUD-48372d48", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 60 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:14.917002", "tareaId": "AUD-48372d48", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 103 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:15.918556", "tareaId": "AUD-48372d48", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 130 anomalías hasta ahora..."}
+{"timestamp": "2026-07-07T22:28:16.919818", "tareaId": "AUD-48372d48", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 159 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-08T12:34:16.481465", "tareaId": "AUD-2d15fe4a", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogsMayo2026.log"}
+{"timestamp": "2026-07-08T12:34:16.484873", "tareaId": "AUD-2d15fe4a", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 35 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T12:34:17.486022", "tareaId": "AUD-2d15fe4a", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 67 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T12:34:18.488498", "tareaId": "AUD-2d15fe4a", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 102 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T12:34:19.490850", "tareaId": "AUD-2d15fe4a", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 122 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T12:34:20.492919", "tareaId": "AUD-2d15fe4a", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 158 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-08T12:34:20.493801", "tareaId": "AUD-964af9c4", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogs2024.log"}
+{"timestamp": "2026-07-08T12:34:20.495264", "tareaId": "AUD-964af9c4", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 37 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T12:34:21.496971", "tareaId": "AUD-964af9c4", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 62 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T12:34:22.499069", "tareaId": "AUD-964af9c4", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 93 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T12:34:23.501040", "tareaId": "AUD-964af9c4", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 127 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T12:34:24.503206", "tareaId": "AUD-964af9c4", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 155 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-08T12:34:24.503930", "tareaId": "AUD-7bdcfa28", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogs2023.log"}
+{"timestamp": "2026-07-08T12:34:24.505281", "tareaId": "AUD-7bdcfa28", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 25 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T12:34:25.507159", "tareaId": "AUD-7bdcfa28", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 56 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T12:34:26.509053", "tareaId": "AUD-7bdcfa28", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 92 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T12:34:27.511004", "tareaId": "AUD-7bdcfa28", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 124 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T12:34:28.513487", "tareaId": "AUD-7bdcfa28", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 155 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-08T13:01:01.522710", "tareaId": "AUD-f2fdae9d", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLog2025.log"}
+{"timestamp": "2026-07-08T13:01:01.525271", "tareaId": "AUD-f2fdae9d", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 35 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:02.527398", "tareaId": "AUD-f2fdae9d", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 60 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:03.529679", "tareaId": "AUD-f2fdae9d", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 103 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:04.531770", "tareaId": "AUD-f2fdae9d", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 130 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:05.534358", "tareaId": "AUD-f2fdae9d", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 159 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-08T13:01:05.535021", "tareaId": "AUD-c5ed89c1", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogs2024.log"}
+{"timestamp": "2026-07-08T13:01:05.536359", "tareaId": "AUD-c5ed89c1", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 37 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:06.538285", "tareaId": "AUD-c5ed89c1", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 62 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:07.539852", "tareaId": "AUD-c5ed89c1", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 93 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:08.542028", "tareaId": "AUD-c5ed89c1", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 127 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:09.544982", "tareaId": "AUD-c5ed89c1", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 155 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-08T13:01:09.546013", "tareaId": "AUD-7f1b7f1c", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogs2023.log"}
+{"timestamp": "2026-07-08T13:01:09.547569", "tareaId": "AUD-7f1b7f1c", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 25 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:10.550049", "tareaId": "AUD-7f1b7f1c", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 56 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:11.552273", "tareaId": "AUD-7f1b7f1c", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 92 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:12.554010", "tareaId": "AUD-7f1b7f1c", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 124 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:13.557076", "tareaId": "AUD-7f1b7f1c", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 155 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-08T13:01:35.586791", "tareaId": "AUD-704e6c89", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLog2025.log"}
+{"timestamp": "2026-07-08T13:01:35.588833", "tareaId": "AUD-704e6c89", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 35 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:36.589822", "tareaId": "AUD-704e6c89", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 60 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:37.590947", "tareaId": "AUD-704e6c89", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 103 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:38.593168", "tareaId": "AUD-704e6c89", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 130 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:39.595814", "tareaId": "AUD-704e6c89", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 159 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-08T13:01:39.596835", "tareaId": "AUD-5fa0d714", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogs2024.log"}
+{"timestamp": "2026-07-08T13:01:39.598713", "tareaId": "AUD-5fa0d714", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 37 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:40.599949", "tareaId": "AUD-5fa0d714", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 62 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:41.601679", "tareaId": "AUD-5fa0d714", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 93 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:42.602987", "tareaId": "AUD-5fa0d714", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 127 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:43.605542", "tareaId": "AUD-5fa0d714", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 155 anomalías críticas detectadas y guardadas."}
+{"timestamp": "2026-07-08T13:01:43.606529", "tareaId": "AUD-f048bde9", "estado": "iniciado", "avance": 0, "mensaje": "Iniciando lectura real de sampLogs2023.log"}
+{"timestamp": "2026-07-08T13:01:43.608086", "tareaId": "AUD-f048bde9", "estado": "procesando", "avance": 20, "mensaje": "Analizadas 1000 líneas. 25 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:44.610241", "tareaId": "AUD-f048bde9", "estado": "procesando", "avance": 40, "mensaje": "Analizadas 2000 líneas. 56 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:45.611772", "tareaId": "AUD-f048bde9", "estado": "procesando", "avance": 60, "mensaje": "Analizadas 3000 líneas. 92 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:46.612688", "tareaId": "AUD-f048bde9", "estado": "procesando", "avance": 80, "mensaje": "Analizadas 4000 líneas. 124 anomalías hasta ahora..."}
+{"timestamp": "2026-07-08T13:01:47.614619", "tareaId": "AUD-f048bde9", "estado": "completado", "avance": 100, "mensaje": "Auditoría finalizada. 155 anomalías críticas detectadas y guardadas."}
